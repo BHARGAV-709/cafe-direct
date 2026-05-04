@@ -8,7 +8,7 @@ export const menuItems: MenuItem[] = [
     category: 'Starters',
     price: 180,
     description: 'Crispy samosas crushed and topped with chickpeas, yogurt, and chutneys',
-    image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '2',
@@ -16,7 +16,7 @@ export const menuItems: MenuItem[] = [
     category: 'Starters',
     price: 260,
     description: 'Marinated cottage cheese cubes grilled in a tandoor with veggies',
-    image: 'https://images.unsplash.com/photo-1599487405612-4318ddb37d89?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1599487405612-4318ddb37d89?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '3',
@@ -24,7 +24,7 @@ export const menuItems: MenuItem[] = [
     category: 'Starters',
     price: 290,
     description: 'Spicy, deep-fried chicken tossed with curry leaves and green chilies',
-    image: 'https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '4',
@@ -32,7 +32,7 @@ export const menuItems: MenuItem[] = [
     category: 'Starters',
     price: 220,
     description: 'Healthy and delicious kebabs made with spinach, peas, and potatoes',
-    image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80',
   },
 
   // Main Course
@@ -42,7 +42,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 450,
     description: 'Tender chicken simmered in a rich, creamy tomato gravy',
-    image: 'https://images.unsplash.com/photo-1603894584373-5ac82b6ae398?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '6',
@@ -50,7 +50,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 380,
     description: 'Soft paneer cubes cooked in a buttery tomato and cashew gravy',
-    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc0?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc0?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '7',
@@ -58,7 +58,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 550,
     description: 'Aromatic basmati rice cooked with tender mutton pieces and special spices',
-    image: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1633940274404-5cd394b3c9a6?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '8',
@@ -66,7 +66,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 320,
     description: 'Black lentils slow-cooked overnight with butter and cream',
-    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '9',
@@ -74,7 +74,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 80,
     description: 'Traditional Indian bread topped with minced garlic and cilantro',
-    image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a41?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a41?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '10',
@@ -82,7 +82,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 360,
     description: 'Cottage cheese cubes in a thick paste made from puréed spinach',
-    image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1601050690117-94f5f6af4eb1?auto=format&fit=crop&w=800&q=80',
   },
 
   // Drinks
@@ -92,7 +92,7 @@ export const menuItems: MenuItem[] = [
     category: 'Drinks',
     price: 150,
     description: 'Sweet and creamy yogurt-based drink blended with ripe mangoes',
-    image: 'https://images.unsplash.com/photo-1546171753-97d7676e4602?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1546171753-97d7676e4602?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '12',
@@ -100,15 +100,15 @@ export const menuItems: MenuItem[] = [
     category: 'Drinks',
     price: 80,
     description: 'Traditional Indian milk tea brewed with aromatic spices and herbs',
-    image: 'https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '13',
-    name: 'Sweet Lassi',
+    name: 'Filter Coffee',
     category: 'Drinks',
-    price: 120,
-    description: 'Classic chilled churned yogurt drink sweetened with sugar',
-    image: 'https://images.unsplash.com/photo-1550586940-2e401ecaccd3?w=800&q=80',
+    price: 100,
+    description: 'South Indian style strong frothy coffee served in traditional metal cup',
+    image: 'https://images.unsplash.com/photo-1579888944510-b997c65ef49a?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '14',
@@ -116,14 +116,14 @@ export const menuItems: MenuItem[] = [
     category: 'Drinks',
     price: 90,
     description: 'Refreshing cumin-flavored cooler, perfect for digestion',
-    image: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80',
   },
   {
     id: '15',
-    name: 'Filter Coffee',
+    name: 'Iced Latte',
     category: 'Drinks',
-    price: 100,
-    description: 'South Indian style strong frothy coffee served in traditional metal cup',
-    image: 'https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&q=80',
+    price: 120,
+    description: 'Classic chilled coffee drink sweetened with sugar',
+    image: 'https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=800&q=80',
   },
 ];
