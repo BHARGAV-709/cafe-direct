@@ -16,7 +16,7 @@ export const menuItems: MenuItem[] = [
     category: 'Starters',
     price: 260,
     description: 'Marinated cottage cheese cubes grilled in a tandoor with veggies',
-    image: 'https://images.unsplash.com/photo-1599487405612-4318ddb37d89?auto=format&fit=crop&w=800&q=80',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8dioS50tA8Q_yIT5nvm0DawjNY-KCu9hWJlpdPuec2Yvhp_uPsIOaZ2mJ6ZzztnA5GA6g_-aWDg5jqXkikLbTAmzeEtvyOLZQ51qWfbilA&s=10',
   },
   {
     id: '3',
@@ -50,7 +50,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 380,
     description: 'Soft paneer cubes cooked in a buttery tomato and cashew gravy',
-    image: 'https://images.unsplash.com/photo-1631452180519-c014fe946bc0?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/1200x/10/21/5f/10215f3e50a42ab56806c96a62c805fe.jpg',
   },
   {
     id: '7',
@@ -58,7 +58,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 550,
     description: 'Aromatic basmati rice cooked with tender mutton pieces and special spices',
-    image: 'https://images.unsplash.com/photo-1633940274404-5cd394b3c9a6?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/1200x/af/08/ae/af08ae013ac4fa6747ce2aca276083b8.jpg',
   },
   {
     id: '8',
@@ -82,7 +82,7 @@ export const menuItems: MenuItem[] = [
     category: 'Main Course',
     price: 360,
     description: 'Cottage cheese cubes in a thick paste made from puréed spinach',
-    image: 'https://images.unsplash.com/photo-1601050690117-94f5f6af4eb1?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/1200x/3e/1b/4b/3e1b4b78272262ab623a89fcf2bbd300.jpg',
   },
 
   // Drinks
@@ -108,7 +108,7 @@ export const menuItems: MenuItem[] = [
     category: 'Drinks',
     price: 100,
     description: 'South Indian style strong frothy coffee served in traditional metal cup',
-    image: 'https://images.unsplash.com/photo-1579888944510-b997c65ef49a?auto=format&fit=crop&w=800&q=80',
+    image: 'https://i.pinimg.com/736x/8f/e4/f0/8fe4f06092de8f27c763a6cd05c78b89.jpg',
   },
   {
     id: '14',
