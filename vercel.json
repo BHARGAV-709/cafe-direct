@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/menu",
+      "destination": "https://qr-based-menu.vercel.app"
+    },
+    {
+      "source": "/menu/(.*)",
+      "destination": "https://qr-based-menu.vercel.app/$1"
+    }
+  ]
+}
